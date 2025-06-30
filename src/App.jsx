@@ -8,7 +8,7 @@ import Footer from "./components/Footer";
 
 const App = () => {
   const youtubeVideoId = "407VYa35aW4";
-  const githubRepoLink = "https://github.com/ritik-sa0201/LeetCode_Buddy";
+  const githubRepoLink = "https://github.com/khushialodhan17/LeetCode_Buddy-main/tree/main/LeetCode_Buddy-main";
 
   return (
     <div className="app-container">
