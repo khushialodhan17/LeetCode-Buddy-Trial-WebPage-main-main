@@ -7,7 +7,7 @@ import CTASection from "./components/CTASection";
 import Footer from "./components/Footer";
 
 const App = () => {
-  const youtubeVideoId = "407VYa35aW4";
+  const youtubeVideoId = "qC8w0EF3u1U";
   const githubRepoLink = "https://github.com/khushialodhan17/LeetCode_Buddy-main/tree/main/LeetCode_Buddy-main";
 
   return (
